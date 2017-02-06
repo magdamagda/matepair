@@ -1,0 +1,12 @@
+# reads types
+MATE_PAIR = "mate_pair"
+PAIR_END = "pair_end"
+MIX = "mix"
+
+# SV types
+DELETION = 0
+INSERTION = 1
+INVERSION = 2
+TANDEM_DUPLICATION = 3
+INTRA_CHROM_TRANS = 4
+INTER_CHROM_TRANS = 5
